@@ -1,0 +1,6 @@
+C:\Workspace\Katas\CheckoutKataAttemptTwo\CheckoutKataAttemptTwo\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Katas\CheckoutKataAttemptTwo\CheckoutKataAttemptTwo\bin\Debug\CheckoutKataAttemptTwo.dll
+C:\Workspace\Katas\CheckoutKataAttemptTwo\CheckoutKataAttemptTwo\bin\Debug\CheckoutKataAttemptTwo.pdb
+C:\Workspace\Katas\CheckoutKataAttemptTwo\CheckoutKataAttemptTwo\bin\Debug\nunit.framework.dll
+C:\Workspace\Katas\CheckoutKataAttemptTwo\CheckoutKataAttemptTwo\obj\Debug\CheckoutKataAttemptTwo.dll
+C:\Workspace\Katas\CheckoutKataAttemptTwo\CheckoutKataAttemptTwo\obj\Debug\CheckoutKataAttemptTwo.pdb
